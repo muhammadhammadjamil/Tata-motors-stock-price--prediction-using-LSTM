@@ -1,1 +1,1 @@
-# Tata-stok-prediction-using-LSTM
+# Tata-stock price-prediction-using-LSTM
